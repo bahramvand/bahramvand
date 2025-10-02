@@ -87,7 +87,7 @@
 ⚡ Practical **Backend knowledge** with **Go, Node.js, PostgreSQL, MySQL**  
 🧪 Skilled in **backend testing (Gherkin) & E2E testing (Cypress, Jest)**  
 📈 Experienced with **Agile workflows (Jira)** and **CI/CD pipelines (GitLab)**  
-📊 Academic background in **Computer Science** with experience in **data analysis (R)**  
+📊 Academic background in **Computer Science**  
 
 ---
 
