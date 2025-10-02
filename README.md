@@ -89,15 +89,6 @@
 📈 Experienced with **Agile workflows (Jira)** and **CI/CD pipelines (GitLab)**  
 📊 Academic background in **Computer Science**  
 
----
-
-  
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahramvand&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
   
 ## 📫 Get in Touch
